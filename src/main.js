@@ -1,9 +1,10 @@
 import Phaser from "./lib/phaser.js"
 import Game from "./scenes/Game.js"
+import GameOver from "./scenes/GameOver.js"
 
 export default new Phaser.Game({
     type: Phaser.AUTO,
-    scene: Game,
+    scene: [Game, GameOver],
     width: 640,
     height: 640,
     physics: {
