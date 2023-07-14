@@ -3,4 +3,5 @@
 ![preview](snapshot.png)
 
 One day with one book --
-One gram per two hundred
+One gram per two hundred --
+One pack of children's cigaretes
